@@ -50,6 +50,7 @@ At line:1 char:1
 ### Room for improvement
 You can click and drag an image into the document - note that it creates an assets folder (ideally pre-stage this)
 ![PShellError](https://github.com/WelshieGD/github-docs-example/assets/120795390/4d81724b-f8e8-42ee-8dd9-72480249a133)
+
 Or type out a link
 ![Here is a screenshot of my error](https://www.cornerstoneofrecovery.com/wp-content/uploads/2019/05/10-signs-you-may-have-a-drinking-problem-featured.jpg)
 
