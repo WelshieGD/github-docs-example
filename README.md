@@ -48,7 +48,11 @@ At line:1 char:1
 ```
 
 ### Room for improvement
-You can click and drag an image into the document - note that it creates an assets folder (ideally pre-stage this)
+You can click and drag an image into the document - but you should really organise folders for this E.g. 
+- Create a new file (assets/newfile) - you need to have a file in the folder to be able to add files to the folder (don't ask!)
+- Go to the folder
+- Upload the new file
+- Delete the placeholder file
 ![PShellError](https://github.com/WelshieGD/github-docs-example/assets/120795390/4d81724b-f8e8-42ee-8dd9-72480249a133)
 
 Or type out a link
