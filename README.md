@@ -35,6 +35,8 @@ I learnt Github markdown from [here](https://docs.github.com/en/get-started/writ
 
 ## Step 3 - Include errors. Try to avoid screenshots as it isn't possible to copy code from a screenshot!
 
+### Good
+
 ```PowerSgekk error
 
 Get-Process : Cannot find a process with the name "NonExistentProcess". Verify the process name and call the cmdlet again.
@@ -44,3 +46,16 @@ At line:1 char:1
     + CategoryInfo          : ObjectNotFound: (NonExistentProcess:String) [Get-Process], ProcessCommandException
     + FullyQualifiedErrorId : NoProcessFoundForGivenName,Microsoft.PowerShell.Commands.GetProcessCommand
 ```
+
+### Room for improvement
+![Here is a screenshot of my error](https://www.cornerstoneofrecovery.com/wp-content/uploads/2019/05/10-signs-you-may-have-a-drinking-problem-featured.jpg)
+
+## Step 4 - Use Lists
+
+- An itemised list is easier to read
+- Honestly, it is
+
+## References
+Lets put it all into practice with lists and links
+- [Github documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+- [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
