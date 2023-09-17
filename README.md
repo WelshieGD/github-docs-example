@@ -55,8 +55,6 @@ You can click and drag an image into the document - but you should really organi
 - Delete the placeholder file
 ![PShellError](https://github.com/WelshieGD/github-docs-example/assets/120795390/4d81724b-f8e8-42ee-8dd9-72480249a133)
 
-Or type out a link
-![Here is a screenshot of my error](https://www.cornerstoneofrecovery.com/wp-content/uploads/2019/05/10-signs-you-may-have-a-drinking-problem-featured.jpg)
 
 ## Step 4 - Use Lists
 
